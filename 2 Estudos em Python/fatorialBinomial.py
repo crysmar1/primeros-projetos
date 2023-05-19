@@ -26,7 +26,3 @@ def testa_fatorial():
         print("Funciona para 5")
     else:
         print("Não funciona para 5")
-
-
-
-        
